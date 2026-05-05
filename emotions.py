@@ -1,7 +1,3 @@
-# =========================================
-# FICHIER : ia/emotions.py
-# =========================================
-
 from datetime import datetime
 import random
 
